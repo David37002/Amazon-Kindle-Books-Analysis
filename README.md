@@ -1,3 +1,3 @@
 # Amazon Kindle Books Analysis
-![](Amazon header.jpg)
+![](Amazon Header.jpg)
 ## Introduction
