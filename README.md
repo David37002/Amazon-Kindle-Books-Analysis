@@ -1,11 +1,17 @@
 # Amazon Kindle Books Analysis
-![](Amazon_Header.jpg)
+![Amazon Header](Amazon_Header.jpg)
 ## Introduction
 This Excel project focuses on analyzing Amazon Kindle book data scraped in October 2023. The objective is to derive insights that will aid Mr. John in launching his new book publishing company.
 
 Mr. John, a prospective client, has approached us via email seeking assistance in setting up his publishing venture. Before officially launching his company, he wishes to gain insights from Amazon Kindle data.
 ### Disclaimer:
 Mr. John is a fictional client, and his new company GLWY Ltd (Greatness Lies Within You Ltd) is purely hypothetical and does not represent any existing entity. The dataset used is authentic and was sourced from publicly available Amazon Kindle data in October 2023.
+
+### You can download the Excel files below: 
+
+Raw Dataset - [Here](https://drive.google.com/file/d/1vFkA4nCA0mcjb51ldmMkF_P70J-LNGn7/view?usp=drive_link)
+
+Final Dashboard - [Here](https://docs.google.com/spreadsheets/d/1RiB5Gmz1el7asteL-ZaCQXZ-Y6spW5Mh/edit?usp=drive_link&ouid=115730064125864566096&rtpof=true&sd=true)
 
 ## Problem Statement:
 Mr. John seeks the following insights for his new publishing company:
