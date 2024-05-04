@@ -33,21 +33,32 @@ V.	Identify the top 5 publishing companies on Amazon Kindle for competitive mark
 The report Comprises of 6 different worksheets:
 
 I.	Cleaned Dataset
+
 II.	Final Dashboard
+
 III.	Authors Analysis
+
 IV.	Publishing Companies Analysis
+
 V.	Category Analysis
+
 VI.	Book Analysis.
 
 ## Skills Demonstrated:
 The Following Excel Features were used:
 
 I. Data Cleaning
+
 II. If Function
+
 III. Standard Pivot table
+
 IV.	Pivot Chart
+
 V. Sorting & Filtering
+
 VI.	Data Analysis
+
 VII. And More…
 
 ## Data Transformation:
@@ -66,6 +77,8 @@ V.	Boolean values were simplified to "Yes" for True and "No" for False, improvin
 VI.	And More...
 
 ## Analysis:
+
+![Top 5 Categories 4.5 Stars Above](Top5_Categories_above4.5.png)
 
 ### Top 5 Categories (4.5 Stars and Above):
 After conducting a thorough analysis and utilizing the IF function, the top 5 categories with ratings of 4.5 stars and above are as follows:
