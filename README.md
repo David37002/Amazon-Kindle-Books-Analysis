@@ -7,11 +7,15 @@ Mr. John, a prospective client, has approached us via email seeking assistance i
 ### Disclaimer:
 Mr. John is a fictional client, and his new company GLWY Ltd (Greatness Lies Within You Ltd) is purely hypothetical and does not represent any existing entity. The dataset used is authentic and was sourced from publicly available Amazon Kindle data in October 2023.
 
-### You can download the Excel files below: 
+### Kindly download the Excel files below: 
 
 Raw Dataset - [Here](https://drive.google.com/file/d/1vFkA4nCA0mcjb51ldmMkF_P70J-LNGn7/view?usp=drive_link)
 
 Final Dashboard - [Here](https://docs.google.com/spreadsheets/d/1RiB5Gmz1el7asteL-ZaCQXZ-Y6spW5Mh/edit?usp=drive_link&ouid=115730064125864566096&rtpof=true&sd=true)
+
+### In case, the png image file are not properly displayed on the read me file, kindly download the image below:
+
+
 
 ## Problem Statement:
 Mr. John seeks the following insights for his new publishing company:
@@ -78,9 +82,10 @@ VI.	And More...
 
 ## Analysis:
 
+### Top 5 Categories (4.5 Stars and Above):
+
 ![Top 5 Categories 4.5 Stars Above](Top5_Categories_above4.5.png)
 
-### Top 5 Categories (4.5 Stars and Above):
 After conducting a thorough analysis and utilizing the IF function, the top 5 categories with ratings of 4.5 stars and above are as follows:
 
 •	Children's Ebook (23.28%)
@@ -94,6 +99,9 @@ After conducting a thorough analysis and utilizing the IF function, the top 5 ca
 •	Parenting & Relationship (18.39%)
 
 ### Top 5 Categories (Less than 2.5 Stars):
+
+![Top 5 Categories Less Than 2.5 Stars](Top5_Categories_less2.5.png)
+
 Following critical analysis and the utilization of the IF function, the top 5 categories with ratings below 2.5 stars are as follows:
 
 •	Law (30.96%)
@@ -108,6 +116,9 @@ Following critical analysis and the utilization of the IF function, the top 5 ca
 
 
 ### Top 10 Authors by Quantity of Books:
+
+![Top 10 Authors by Quantity of Books](Top10_Authors.png)
+
 The top 10 authors, ranked by the quantity of books, are as follows:
 
 •	Anonymous (425)
@@ -136,6 +147,9 @@ The top 10 authors, ranked by the quantity of books, are as follows:
 
 
 ### Top 10 Books by Highest Review:
+
+![Top 10 Books by Highest Review](Top10_Books.png)
+
 The top 10 books, ranked by the highest review count, are as follows:
 
 •	"Where the Crawdads Sing" (618,227)
@@ -160,6 +174,9 @@ The top 10 books, ranked by the highest review count, are as follows:
 
 
 ### Top 5 Publishing Companies by Quantity of Books:
+
+![Top 5 Publishing Companies by Quantity of Books](Top5_Publishing_Comp.png)
+
 The top 5 publishing companies, based on the quantity of books published, are as follows:
 
 •	Amazon.com Service LLC (78%)
@@ -173,6 +190,8 @@ The top 5 publishing companies, based on the quantity of books published, are as
 •	Self-Publishing Authors (9%)
 
 ## Conclusion:
+
+![Final Dashboard](FinanlDashboard.png)
 
 After analyzing the October 2023 dataset from Amazon Kindle, several key insights have been uncovered. The top categories with ratings of 4.5 stars and above include Children's Ebook, Religion & Spirituality, Science & Math, Teen & Young Adult, and Parenting & Relationship. Conversely, categories such as Law, Engineering & Transportation, Computer & Technology, Foreign Language, and Travel have received ratings below 2.5 stars, suggesting potential areas to avoid for publishing.
 
