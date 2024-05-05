@@ -15,7 +15,17 @@ Final Dashboard - [Here](https://docs.google.com/spreadsheets/d/1RiB5Gmz1el7aste
 
 ### In case, the png image file are not properly displayed on the read me file, kindly download the image below:
 
+* Top 5 Categories (4.5 Stars and Above) - [Here](https://drive.google.com/file/d/1KtvxNH-RRLM6iiGhdBPJCs0OLOzjuS2F/view?usp=drive_link)
 
+* Top 5 Categories (Less than 2.5 Stars) - [Here](https://drive.google.com/file/d/1FgalNdmADL6M1Hkd92fIgH4vzdqmR8IL/view?usp=drive_link)
+
+* Top 10 Authors by Quantity of Books - [Here](https://drive.google.com/file/d/1qfz6qF31aa_hllcYapvovs7zAKn_077t/view?usp=drive_link)
+
+* Top 10 Books by Highest Review - [Here](https://drive.google.com/file/d/1kHDCKBoVZlrUwQoUCW4vAVafu4kHhcJp/view?usp=drive_link)
+
+* Top 5 Publishing Companies by Quantity of Books - [Here](https://drive.google.com/file/d/1MQ7IVD9ibQvNggPnotpULYITWyXDW4IH/view?usp=drive_link)
+
+* Final Dashboard Image - [Here](https://drive.google.com/file/d/10oSRGJSp_1vpwX-NJukC2enTOw6O11Np/view?usp=drive_link)
 
 ## Problem Statement:
 Mr. John seeks the following insights for his new publishing company:
