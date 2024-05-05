@@ -9,9 +9,9 @@ Mr. John is a fictional client, and his new company GLWY Ltd (Greatness Lies Wit
 
 ### Kindly download the Excel files below: 
 
-Raw Dataset - [Here](https://drive.google.com/file/d/1vFkA4nCA0mcjb51ldmMkF_P70J-LNGn7/view?usp=drive_link)
+Raw Dataset - [Here](https://www.dropbox.com/scl/fi/9tboqvsnlq0d755526fqy/Amazon-Kindle-Data-October-2023-Dataset.csv?rlkey=qb3lk16zzfw1wjpv3z6uji0yy&st=5ir1wcvz&dl=0)
 
-Final Dashboard - [Here](https://docs.google.com/spreadsheets/d/1RiB5Gmz1el7asteL-ZaCQXZ-Y6spW5Mh/edit?usp=drive_link&ouid=115730064125864566096&rtpof=true&sd=true)
+Final Dashboard - [Here](https://www.dropbox.com/scl/fi/aa68rmtnzre585c2p3b5m/Final-Dashboard-Analysis.xlsx?rlkey=qwsyfwomd01bm82fkpqxuej65&st=8293qo7d&dl=0)
 
 ### In case, the png image file are not properly displayed on the read me file, kindly download the image below:
 
