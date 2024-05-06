@@ -77,6 +77,10 @@ VII. And More…
 
 ## Data Transformation:
 
+Raw Dataset                     |      Cleaned Dataset
+:------------------------------:|:---------------------------:
+![Raw Dataset](Raw_Dataset.png) | ![Cleaned Dataset](Cleaned_Dataset.png)
+
 I.	Column headers were updated to standard names like Product ID, Title, Author, Publishing Company, etc., for consistency.
 
 II.	To ensure consistency, the Product ID datatype was uniformly adjusted to Text format.
@@ -201,7 +205,7 @@ The top 5 publishing companies, based on the quantity of books published, are as
 
 ## Conclusion:
 
-![Final Dashboard](Finanl_Dashboard.png)
+![Final Dashboard](Final_Dashboard.png)
 
 After analyzing the October 2023 dataset from Amazon Kindle, several key insights have been uncovered. The top categories with ratings of 4.5 stars and above include Children's Ebook, Religion & Spirituality, Science & Math, Teen & Young Adult, and Parenting & Relationship. Conversely, categories such as Law, Engineering & Transportation, Computer & Technology, Foreign Language, and Travel have received ratings below 2.5 stars, suggesting potential areas to avoid for publishing.
 
